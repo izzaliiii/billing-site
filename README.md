@@ -1,8 +1,8 @@
-# Northstar RCM medical billing site
+# Med Orbit LLC medical billing site
 
 ## Page structure
 
-The homepage follows a lead-generation flow inspired by the BellMedEx homepage: grouped navigation, a two-column hero with an inquiry form, a service overview, detailed workflow content, a reporting example, specialties, onboarding, FAQs, and repeated contact prompts. The brand, copy, services, and sample dashboard come from the Northstar RCM concept; BellMedEx content and claims were not copied.
+The homepage follows a lead-generation flow inspired by the BellMedEx homepage: grouped navigation, a two-column hero with an inquiry form, a service overview, detailed workflow content, a reporting example, specialties, onboarding, FAQs, and repeated contact prompts. The brand, copy, services, and sample dashboard come from the Med Orbit LLC concept; BellMedEx content and claims were not copied.
 
 ## Edit the site manually
 
@@ -21,4 +21,4 @@ Open `index.html`, click **Edit this website** at the bottom right, then **Start
 
 ## Reference and publishing
 
-The layout pattern was informed by [BellMedEx](https://bellmedex.com/). This is an original Northstar RCM concept, not a copy of BellMedEx’s text, claims, or branding. Verify your organization’s actual contact information, credentials, data, links, and legal notices before publishing.
+The layout pattern was informed by [BellMedEx](https://bellmedex.com/). This is an original Med Orbit LLC concept, not a copy of BellMedEx’s text, claims, or branding. Verify your organization’s actual contact information, credentials, data, links, and legal notices before publishing.
