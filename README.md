@@ -2,7 +2,7 @@
 
 ## Page structure
 
-The homepage follows a lead-generation flow inspired by the BellMedEx homepage: grouped navigation, a two-column hero with an inquiry form, a service overview, detailed workflow content, a reporting example, specialties, onboarding, FAQs, and repeated contact prompts. The brand, copy, services, and sample dashboard come from the Med Orbit LLC concept; BellMedEx content and claims were not copied.
+The homepage uses a two-column hero with the existing conversation form, an illustrative doctor photo, an About Med Orbit LLC section, “Explore Our Services That We Offer,” and “Reason to Choose Us,” followed by workflow details, reporting, specialties, onboarding, FAQs, and contact prompts. ReviseOn Billing informed the home page structure; its content and branding were not copied.
 
 ## Edit the site manually
 
@@ -21,4 +21,4 @@ Open `index.html`, click **Edit this website** at the bottom right, then **Start
 
 ## Reference and publishing
 
-The layout pattern was informed by [BellMedEx](https://bellmedex.com/). This is an original Med Orbit LLC concept, not a copy of BellMedEx’s text, claims, or branding. Verify your organization’s actual contact information, credentials, data, links, and legal notices before publishing.
+The doctor photo is an illustrative stock image by [Nappy on Unsplash](https://unsplash.com/photos/a-man-wearing-a-white-lab-coat-domV4QE9yOI). Verify your organization’s actual contact information, credentials, data, links, and legal notices before publishing.
