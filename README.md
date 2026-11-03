@@ -2,7 +2,7 @@
 
 ## Page structure
 
-The homepage hero keeps the company introduction and conversation form stacked in the left column, with the supplied doctor portrait on the right. It is followed by an About Med Orbit LLC section, “Explore Our Services That We Offer,” and “Reason to Choose Us,” then workflow details, reporting, specialties, onboarding, FAQs, and contact prompts. ReviseOn Billing informed the home page structure; its content and branding were not copied.
+The homepage hero keeps the company introduction and conversation form stacked in the left column, with the supplied doctor portrait on the right. The remaining page contains an About Med Orbit LLC section, “Explore Our Services That We Offer,” and ends with “Reason to Choose Us.” ReviseOn Billing informed the home page structure; its content and branding were not copied.
 
 ## Edit the site manually
 
