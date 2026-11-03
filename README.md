@@ -2,7 +2,7 @@
 
 ## Page structure
 
-The homepage uses a two-column hero with the existing conversation form, an illustrative doctor photo, an About Med Orbit LLC section, “Explore Our Services That We Offer,” and “Reason to Choose Us,” followed by workflow details, reporting, specialties, onboarding, FAQs, and contact prompts. ReviseOn Billing informed the home page structure; its content and branding were not copied.
+The homepage hero keeps the company introduction and conversation form stacked in the left column, with the supplied doctor portrait on the right. It is followed by an About Med Orbit LLC section, “Explore Our Services That We Offer,” and “Reason to Choose Us,” then workflow details, reporting, specialties, onboarding, FAQs, and contact prompts. ReviseOn Billing informed the home page structure; its content and branding were not copied.
 
 ## Edit the site manually
 
@@ -21,4 +21,4 @@ Open `index.html`, click **Edit this website** at the bottom right, then **Start
 
 ## Reference and publishing
 
-The doctor photo is an illustrative stock image by [Nappy on Unsplash](https://unsplash.com/photos/a-man-wearing-a-white-lab-coat-domV4QE9yOI). Verify your organization’s actual contact information, credentials, data, links, and legal notices before publishing.
+The hero portrait was supplied by the site owner and is stored in `assets/doctor-portrait.png`. Verify your organization’s actual contact information, credentials, data, links, and legal notices before publishing.
